@@ -1,0 +1,39 @@
+
+was ist mein Vorame : Winifred
+ist mein Vorname Winifred : Ja
+ist mein Vorname nicht Winifred : Nein
+lautet mein Vorname Winifred : Ja
+lautet mein Vorname nicht Winifred : Nein
+was ist mein Nachname : Wagner
+ist mein Nachname Wagner : Ja
+ist mein Nachname nicht Wagner : Nein
+lautet mein Nachname Wagner : Ja
+lautet mein Nachname nicht Wagner : Nein
+was ist mein Name : Winifred Wagner
+ist mein Name Winifred Wagner : Ja
+ist mein Name nicht Winifred Wagner : Nein
+lautet mein Name Winifred Wagner : Ja
+lautet mein Name nicht Winifred Wagner : Nein
+kommt Winifred aus Bayreuth : Ja
+kommt Winifred nicht aus Bayreuth : Nein
+kommt Winifred Wagner aus Bayreuth : Ja
+kommt Winifred Wagner nicht aus Bayreuth : Nein
+komme ich aus Bayreuth : Ja
+komme ich nicht aus Bayreuth : Nein
+bin ich weiblich : Ja
+bin ich nicht weiblich : Nein
+ist Winifred weiblich : Ja
+ist Winifred nicht weiblich : Nein
+ist Winifred Wagner weiblich : Ja
+ist Winifred Wagner nicht weiblich : Nein
+bin ich männlich : Nein
+bin ich nicht männlich : Ja
+ist Winifred männlich : Nein
+ist Winifred nicht männlich : Ja
+ist Winifred Wagner männlich : Nein
+ist Winifred Wagner nicht männlich: Ja
+was bin ich : weiblich
+was bin ich nicht : männlich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde

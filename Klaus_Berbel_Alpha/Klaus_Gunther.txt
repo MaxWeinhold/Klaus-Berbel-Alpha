@@ -1,0 +1,39 @@
+
+was ist mein Vorame : Klaus
+ist mein Vorname Klaus : Ja
+ist mein Vorname nicht Klaus : Nein
+lautet mein Vorname Klaus : Ja
+lautet mein Vorname nicht Klaus : Nein
+was ist mein Nachname : Gunther
+ist mein Nachname Gunther : Ja
+ist mein Nachname nicht Gunther : Nein
+lautet mein Nachname Gunther : Ja
+lautet mein Nachname nicht Gunther : Nein
+was ist mein Name : Klaus Gunther
+ist mein Name Klaus Gunther : Ja
+ist mein Name nicht Klaus Gunther : Nein
+lautet mein Name Klaus Gunther : Ja
+lautet mein Name nicht Klaus Gunther : Nein
+kommt Klaus aus Köln : Ja
+kommt Klaus nicht aus Köln : Nein
+kommt Klaus Gunther aus Köln : Ja
+kommt Klaus Gunther nicht aus Köln : Nein
+komme ich aus Köln : Ja
+komme ich nicht aus Köln : Nein
+bin ich weiblich : Ja
+bin ich nicht weiblich : Nein
+ist Klaus weiblich : Ja
+ist Klaus nicht weiblich : Nein
+ist Klaus Gunther weiblich : Ja
+ist Klaus Gunther nicht weiblich : Nein
+bin ich männlich : Nein
+bin ich nicht männlich : Ja
+ist Klaus männlich : Nein
+ist Klaus nicht männlich : Ja
+ist Klaus Gunther männlich : Nein
+ist Klaus Gunther nicht männlich: Ja
+was bin ich : weiblich
+was bin ich nicht : männlich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde

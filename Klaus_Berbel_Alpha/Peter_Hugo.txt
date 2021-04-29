@@ -1,0 +1,36 @@
+
+was ist mein Vorame : Peter
+ist mein Vorname Peter : Ja
+ist mein Vorname nicht Peter : Nein
+lautet mein Vorname Peter : Ja
+lautet mein Vorname nicht Peter : Nein
+was ist mein Nachname : Hugo
+ist mein Nachname Hugo : Ja
+ist mein Nachname nicht Hugo : Nein
+lautet mein Nachname Hugo : Ja
+lautet mein Nachname nicht Hugo : Nein
+was ist mein Name : Peter Hugo
+ist mein Name Peter Hugo : Ja
+ist mein Name nicht Peter Hugo : Nein
+lautet mein Name Peter Hugo : Ja
+lautet mein Name nicht Peter Hugo : Nein
+kommt Peter aus Heidelberg : Ja
+kommt Peter nicht aus Heidelberg : Nein
+kommt Peter Hugo aus Heidelberg : Ja
+kommt Peter Hugo nicht aus Heidelberg : Nein
+komme ich aus Heidelberg : Ja
+komme ich nicht aus Heidelberg : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Peter männlich : Ja
+ist Peter nicht männlich : Nein
+ist Peter Hugo männlich : Ja
+ist Peter Hugo nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Peter weiblich : Nein
+ist Peter nicht weiblich : Ja
+ist Peter Hugo weiblich : Nein
+ist Peter Hugo nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich

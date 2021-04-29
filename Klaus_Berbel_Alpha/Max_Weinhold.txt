@@ -1,0 +1,94 @@
+
+was ist mein Vorame : Max
+ist mein Vorname Max : Ja
+ist mein Vorname nicht Max : Nein
+lautet mein Vorname Max : Ja
+lautet mein Vorname nicht Max : Nein
+was ist mein Nachname : Weinhold
+ist mein Nachname Weinhold : Ja
+ist mein Nachname nicht Weinhold : Nein
+lautet mein Nachname Weinhold : Ja
+lautet mein Nachname nicht Weinhold : Nein
+was ist mein Name : Max Weinhold
+ist mein Name Max Weinhold : Ja
+ist mein Name nicht Max Weinhold : Nein
+lautet mein Name Max Weinhold : Ja
+lautet mein Name nicht Max Weinhold : Nein
+kommt Max aus Wismar : Ja
+kommt Max nicht aus Wismar : Nein
+kommt Max Weinhold aus Wismar : Ja
+kommt Max Weinhold nicht aus Wismar : Nein
+komme ich aus Wismar : Ja
+komme ich nicht aus Wismar : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Max männlich : Ja
+ist Max nicht männlich : Nein
+ist Max Weinhold männlich : Ja
+ist Max Weinhold nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Max weiblich : Nein
+ist Max nicht weiblich : Ja
+ist Max Weinhold weiblich : Nein
+ist Max Weinhold nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ studiere ich in Mannheim : Ja
+ wer studiert in Mannheim : Max Weinhold
+ was studiert in Mannheim : Max Weinhold
+ wem studiere ich : in Mannheim
+ wen studiere ich : in Mannheim
+ was studiere ich : in Mannheim
+wohin studiere ich : in Mannheim
+wo studiere ich : in Mannheim
+ kämpft der Ritter inmitten der Feinde : Ja
+ wer kämpft inmitten der Feinde : der Ritter
+ was kämpft inmitten der Feinde : der Ritter
+inmitten wessen kämpft der Ritter : inmitten der Feinde
+wo kämpft der Ritter : inmitten der Feinde
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde ist die Erde eine Kugel : Ja
+ wer ist eine Kugel : die Erde
+ was ist eine Kugel : die Erde
+ wen ist die Erde nicht : ein Kugel
+ was ist die Erde nicht : ein Kugel
+ ist die Erde ein Planet : Ja
+ wer ist ein Planet : die Erde
+ was ist ein Planet : die Erde
+ wen ist die Erde nicht : ein Planet
+ was ist die Erde nicht : ein Planet
+ ist der Planet eine Kugel : Ja
+ wer ist eine Kugel : der Planet
+ was ist eine Kugel : der Planet
+ wen ist der Planet nicht : ein Kugel
+ was ist der Planet nicht : ein Kugel
+ ist die Erde fest : Ja
+ wer ist fest : die Erde
+ was ist fest : die Erde
+ gehen die Kinder in die Schule : Ja
+ wer gehen in die Schule : die Kinder
+ was gehen in die Schule : die Kinder
+ wem gehen die Kinder : in die Schule
+ wen gehen die Kinder : in die Schule
+ was gehen die Kinder : in die Schule
+wohin gehen die Kinder : in die Schule
+wo gehen die Kinder : in die Schule
+ sind Kinder klein : Ja
+ wer sind klein : Kinder
+ was sind klein : Kinder
+ gehen die Menschen nicht in die Schule : Ja
+ gehen die Menschen in die Schule : Nein
+ wer gehen nicht in die Schule : die Menschen
+ was gehen nicht in die Schule : die Menschen
+ wem gehen die Menschen : in die Schule
+ wen gehen die Menschen : in die Schule
+ was gehen die Menschen : in die Schule
+wohin gehen die Menschen nicht : in die Schule
+wo gehen die Menschen nicht : in die Schule
+ ist die Erde kein Holz : Ja
+ wer ist kein Holz : die Erde
+ was ist kein Holz : die Erde
+ wen ist die Erde nicht : ein Holz
+ was ist die Erde nicht : ein Holz

@@ -1,0 +1,39 @@
+
+was ist mein Vorame : Roland
+ist mein Vorname Roland : Ja
+ist mein Vorname nicht Roland : Nein
+lautet mein Vorname Roland : Ja
+lautet mein Vorname nicht Roland : Nein
+was ist mein Nachname : Kaiser
+ist mein Nachname Kaiser : Ja
+ist mein Nachname nicht Kaiser : Nein
+lautet mein Nachname Kaiser : Ja
+lautet mein Nachname nicht Kaiser : Nein
+was ist mein Name : Roland Kaiser
+ist mein Name Roland Kaiser : Ja
+ist mein Name nicht Roland Kaiser : Nein
+lautet mein Name Roland Kaiser : Ja
+lautet mein Name nicht Roland Kaiser : Nein
+kommt Roland aus Berlin : Ja
+kommt Roland nicht aus Berlin : Nein
+kommt Roland Kaiser aus Berlin : Ja
+kommt Roland Kaiser nicht aus Berlin : Nein
+komme ich aus Berlin : Ja
+komme ich nicht aus Berlin : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Roland männlich : Ja
+ist Roland nicht männlich : Nein
+ist Roland Kaiser männlich : Ja
+ist Roland Kaiser nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Roland weiblich : Nein
+ist Roland nicht weiblich : Ja
+ist Roland Kaiser weiblich : Nein
+ist Roland Kaiser nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde

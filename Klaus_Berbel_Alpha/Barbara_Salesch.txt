@@ -1,0 +1,40 @@
+
+was ist mein Vorame : Barbara
+ist mein Vorname Barbara : Ja
+ist mein Vorname nicht Barbara : Nein
+lautet mein Vorname Barbara : Ja
+lautet mein Vorname nicht Barbara : Nein
+was ist mein Nachname : Salesch
+ist mein Nachname Salesch : Ja
+ist mein Nachname nicht Salesch : Nein
+lautet mein Nachname Salesch : Ja
+lautet mein Nachname nicht Salesch : Nein
+was ist mein Name : Barbara Salesch
+ist mein Name Barbara Salesch : Ja
+ist mein Name nicht Barbara Salesch : Nein
+lautet mein Name Barbara Salesch : Ja
+lautet mein Name nicht Barbara Salesch : Nein
+kommt Barbara aus Berlin : Ja
+kommt Barbara nicht aus Berlin : Nein
+kommt Barbara Salesch aus Berlin : Ja
+kommt Barbara Salesch nicht aus Berlin : Nein
+komme ich aus Berlin : Ja
+komme ich nicht aus Berlin : Nein
+bin ich weiblich : Ja
+bin ich nicht weiblich : Nein
+ist Barbara weiblich : Ja
+ist Barbara nicht weiblich : Nein
+ist Barbara Salesch weiblich : Ja
+ist Barbara Salesch nicht weiblich : Nein
+bin ich männlich : Nein
+bin ich nicht männlich : Ja
+ist Barbara männlich : Nein
+ist Barbara nicht männlich : Ja
+ist Barbara Salesch männlich : Nein
+ist Barbara Salesch nicht männlich: Ja
+was bin ich : weiblich
+was bin ich nicht : männlich
+ ist die Erde nicht blau : Ja
+ ist die Erde blau : Nein
+ wer ist nicht blau : die Erde
+ was ist nicht blau : die Erde

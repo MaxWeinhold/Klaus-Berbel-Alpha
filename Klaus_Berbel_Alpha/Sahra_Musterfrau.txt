@@ -1,0 +1,52 @@
+
+was ist mein Vorame : Sahra
+ist mein Vorname Sahra : Ja
+ist mein Vorname nicht Sahra : Nein
+lautet mein Vorname Sahra : Ja
+lautet mein Vorname nicht Sahra : Nein
+was ist mein Nachname : Musterfrau
+ist mein Nachname Musterfrau : Ja
+ist mein Nachname nicht Musterfrau : Nein
+lautet mein Nachname Musterfrau : Ja
+lautet mein Nachname nicht Musterfrau : Nein
+was ist mein Name : Sahra Musterfrau
+ist mein Name Sahra Musterfrau : Ja
+ist mein Name nicht Sahra Musterfrau : Nein
+lautet mein Name Sahra Musterfrau : Ja
+lautet mein Name nicht Sahra Musterfrau : Nein
+kommt Sahra aus Heidelberg : Ja
+kommt Sahra nicht aus Heidelberg : Nein
+kommt Sahra Musterfrau aus Heidelberg : Ja
+kommt Sahra Musterfrau nicht aus Heidelberg : Nein
+komme ich aus Heidelberg : Ja
+komme ich nicht aus Heidelberg : Nein
+bin ich weiblich : Ja
+bin ich nicht weiblich : Nein
+ist Sahra weiblich : Ja
+ist Sahra nicht weiblich : Nein
+ist Sahra Musterfrau weiblich : Ja
+ist Sahra Musterfrau nicht weiblich : Nein
+bin ich m‰nnlich : Nein
+bin ich nicht m‰nnlich : Ja
+ist Sahra m‰nnlich : Nein
+ist Sahra nicht m‰nnlich : Ja
+ist Sahra Musterfrau m‰nnlich : Nein
+ist Sahra Musterfrau nicht m‰nnlich: Ja
+was bin ich : weiblich
+was bin ich nicht : m‰nnlich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde
+ ist die Erde eine Kugel : Ja
+ wer ist eine Kugel : die Erde
+ was ist eine Kugel : die Erde
+ wen ist die Erde nicht : ein Kugel
+ was ist die Erde nicht : ein Kugel
+ ist das Meer groﬂ : Ja
+ wer ist groﬂ : das Meer
+ was ist groﬂ : das Meer
+ ist der Planet eine Kugel : Ja
+ wer ist eine Kugel : der Planet
+ was ist eine Kugel : der Planet
+ wen ist der Planet nicht : ein Kugel
+ was ist der Planet nicht : ein Kugel

@@ -1,0 +1,39 @@
+
+was ist mein Vorame : Siegfried
+ist mein Vorname Siegfried : Ja
+ist mein Vorname nicht Siegfried : Nein
+lautet mein Vorname Siegfried : Ja
+lautet mein Vorname nicht Siegfried : Nein
+was ist mein Nachname : Wagner
+ist mein Nachname Wagner : Ja
+ist mein Nachname nicht Wagner : Nein
+lautet mein Nachname Wagner : Ja
+lautet mein Nachname nicht Wagner : Nein
+was ist mein Name : Siegfried Wagner
+ist mein Name Siegfried Wagner : Ja
+ist mein Name nicht Siegfried Wagner : Nein
+lautet mein Name Siegfried Wagner : Ja
+lautet mein Name nicht Siegfried Wagner : Nein
+kommt Siegfried aus Bayreuth : Ja
+kommt Siegfried nicht aus Bayreuth : Nein
+kommt Siegfried Wagner aus Bayreuth : Ja
+kommt Siegfried Wagner nicht aus Bayreuth : Nein
+komme ich aus Bayreuth : Ja
+komme ich nicht aus Bayreuth : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Siegfried männlich : Ja
+ist Siegfried nicht männlich : Nein
+ist Siegfried Wagner männlich : Ja
+ist Siegfried Wagner nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Siegfried weiblich : Nein
+ist Siegfried nicht weiblich : Ja
+ist Siegfried Wagner weiblich : Nein
+ist Siegfried Wagner nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde

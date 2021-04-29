@@ -1,0 +1,50 @@
+
+was ist mein Vorame : Johannes
+ist mein Vorname Johannes : Ja
+ist mein Vorname nicht Johannes : Nein
+lautet mein Vorname Johannes : Ja
+lautet mein Vorname nicht Johannes : Nein
+was ist mein Nachname : Brahms
+ist mein Nachname Brahms : Ja
+ist mein Nachname nicht Brahms : Nein
+lautet mein Nachname Brahms : Ja
+lautet mein Nachname nicht Brahms : Nein
+was ist mein Name : Johannes Brahms
+ist mein Name Johannes Brahms : Ja
+ist mein Name nicht Johannes Brahms : Nein
+lautet mein Name Johannes Brahms : Ja
+lautet mein Name nicht Johannes Brahms : Nein
+kommt Johannes aus Hamburg : Ja
+kommt Johannes nicht aus Hamburg : Nein
+kommt Johannes Brahms aus Hamburg : Ja
+kommt Johannes Brahms nicht aus Hamburg : Nein
+komme ich aus Hamburg : Ja
+komme ich nicht aus Hamburg : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Johannes männlich : Ja
+ist Johannes nicht männlich : Nein
+ist Johannes Brahms männlich : Ja
+ist Johannes Brahms nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Johannes weiblich : Nein
+ist Johannes nicht weiblich : Ja
+ist Johannes Brahms weiblich : Nein
+ist Johannes Brahms nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ ist die Erde nicht blau : Ja
+ ist die Erde blau : Nein
+ wer ist nicht blau : die Erde
+ was ist nicht blau : die Erde
+ ist die Erde eine Kugel : Ja
+ wer ist eine Kugel : die Erde
+ was ist eine Kugel : die Erde
+ wen ist die Erde nicht : ein Kugel
+ was ist die Erde nicht : ein Kugel
+ ist die Erde ein Planet : Ja
+ wer ist ein Planet : die Erde
+ was ist ein Planet : die Erde
+ wen ist die Erde nicht : ein Planet
+ was ist die Erde nicht : ein Planet

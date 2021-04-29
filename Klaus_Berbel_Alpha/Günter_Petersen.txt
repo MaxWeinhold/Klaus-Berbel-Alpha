@@ -1,0 +1,39 @@
+
+was ist mein Vorame : Günter
+ist mein Vorname Günter : Ja
+ist mein Vorname nicht Günter : Nein
+lautet mein Vorname Günter : Ja
+lautet mein Vorname nicht Günter : Nein
+was ist mein Nachname : Petersen
+ist mein Nachname Petersen : Ja
+ist mein Nachname nicht Petersen : Nein
+lautet mein Nachname Petersen : Ja
+lautet mein Nachname nicht Petersen : Nein
+was ist mein Name : Günter Petersen
+ist mein Name Günter Petersen : Ja
+ist mein Name nicht Günter Petersen : Nein
+lautet mein Name Günter Petersen : Ja
+lautet mein Name nicht Günter Petersen : Nein
+kommt Günter aus Hamburg : Ja
+kommt Günter nicht aus Hamburg : Nein
+kommt Günter Petersen aus Hamburg : Ja
+kommt Günter Petersen nicht aus Hamburg : Nein
+komme ich aus Hamburg : Ja
+komme ich nicht aus Hamburg : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Günter männlich : Ja
+ist Günter nicht männlich : Nein
+ist Günter Petersen männlich : Ja
+ist Günter Petersen nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Günter weiblich : Nein
+ist Günter nicht weiblich : Ja
+ist Günter Petersen weiblich : Nein
+ist Günter Petersen nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde

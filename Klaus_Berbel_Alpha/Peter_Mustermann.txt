@@ -1,0 +1,105 @@
+
+was ist mein Vorame : Peter
+ist mein Vorname Peter : Ja
+ist mein Vorname nicht Peter : Nein
+lautet mein Vorname Peter : Ja
+lautet mein Vorname nicht Peter : Nein
+was ist mein Nachname : Mustermann
+ist mein Nachname Mustermann : Ja
+ist mein Nachname nicht Mustermann : Nein
+lautet mein Nachname Mustermann : Ja
+lautet mein Nachname nicht Mustermann : Nein
+was ist mein Name : Peter Mustermann
+ist mein Name Peter Mustermann : Ja
+ist mein Name nicht Peter Mustermann : Nein
+lautet mein Name Peter Mustermann : Ja
+lautet mein Name nicht Peter Mustermann : Nein
+kommt Peter aus Mannheim : Ja
+kommt Peter nicht aus Mannheim : Nein
+kommt Peter Mustermann aus Mannheim : Ja
+kommt Peter Mustermann nicht aus Mannheim : Nein
+komme ich aus Mannheim : Ja
+komme ich nicht aus Mannheim : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Peter männlich : Ja
+ist Peter nicht männlich : Nein
+ist Peter Mustermann männlich : Ja
+ist Peter Mustermann nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Peter weiblich : Nein
+ist Peter nicht weiblich : Ja
+ist Peter Mustermann weiblich : Nein
+ist Peter Mustermann nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ bin ich ein Mensch : Ja
+wer bin ein Mensch : ich
+was bin ein Mensch : ich
+ wen bin ich nicht : ein Mensch
+ was bin ich nicht : ein Mensch
+ bin ich ein Mann : Ja
+wer bin ein Mann : ich
+was bin ein Mann : ich
+ wen bin ich nicht : ein Mann
+ was bin ich nicht : ein Mann
+
+was ist mein Vorame : Peter
+ist mein Vorname Peter : Ja
+ist mein Vorname nicht Peter : Nein
+lautet mein Vorname Peter : Ja
+lautet mein Vorname nicht Peter : Nein
+was ist mein Nachname : Mustermann
+ist mein Nachname Mustermann : Ja
+ist mein Nachname nicht Mustermann : Nein
+lautet mein Nachname Mustermann : Ja
+lautet mein Nachname nicht Mustermann : Nein
+was ist mein Name : Peter Mustermann
+ist mein Name Peter Mustermann : Ja
+ist mein Name nicht Peter Mustermann : Nein
+lautet mein Name Peter Mustermann : Ja
+lautet mein Name nicht Peter Mustermann : Nein
+kommt Peter aus Mannheim : Ja
+kommt Peter nicht aus Mannheim : Nein
+kommt Peter Mustermann aus Mannheim : Ja
+kommt Peter Mustermann nicht aus Mannheim : Nein
+komme ich aus Mannheim : Ja
+komme ich nicht aus Mannheim : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Peter männlich : Ja
+ist Peter nicht männlich : Nein
+ist Peter Mustermann männlich : Ja
+ist Peter Mustermann nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Peter weiblich : Nein
+ist Peter nicht weiblich : Ja
+ist Peter Mustermann weiblich : Nein
+ist Peter Mustermann nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde
+ ist die Erde eine Kugel : Ja
+ wer ist eine Kugel : die Erde
+ was ist eine Kugel : die Erde
+ wen ist die Erde nicht : ein Kugel
+ was ist die Erde nicht : ein Kugel
+ ist die Erde ein Kugel : Ja
+ wer ist ein Kugel : die Erde
+ was ist ein Kugel : die Erde
+ wen ist die Erde nicht : ein Kugel
+ was ist die Erde nicht : ein Kugel
+ ist die Erde ein Planet : Ja
+ wer ist ein Planet : die Erde
+ was ist ein Planet : die Erde
+ wen ist die Erde nicht : ein Planet
+ was ist die Erde nicht : ein Planet
+ ist der Planet eine Kugel : Ja
+ wer ist eine Kugel : der Planet
+ was ist eine Kugel : der Planet
+ wen ist der Planet nicht : ein Kugel
+ was ist der Planet nicht : ein Kugel

@@ -1,0 +1,50 @@
+ ist die Erde ein Planet : Ja
+ wer ist ein Planet : die Erde
+ was ist ein Planet : die Erde
+ wen ist die Erde nicht : ein Planet
+ was ist die Erde nicht : ein Planet
+ ist der Planet eine Kugel : Ja
+ wer ist eine Kugel : der Planet
+ was ist eine Kugel : der Planet
+ wen ist der Planet nicht : ein Kugel
+ was ist der Planet nicht : ein Kugel
+ ist die Erde kein Holz : Ja
+ wer ist kein Holz : die Erde
+ was ist kein Holz : die Erde
+ wen ist die Erde nicht : ein Holz
+ was ist die Erde nicht : ein Holz
+ ist die Erde ein Name : Ja
+ wer ist ein Name : die Erde
+ was ist ein Name : die Erde
+ wen ist die Erde nicht : ein Name
+ was ist die Erde nicht : ein Name
+ ist das Papier aus Holz : Ja
+ wer ist aus Holz : das Papier
+ was ist aus Holz : das Papier
+ wem ist das Papier : aus Holz
+woher ist das Papier : aus Holz
+ ist der Baum aus Holz : Ja
+ wer ist aus Holz : der Baum
+ was ist aus Holz : der Baum
+ wem ist der Baum : aus Holz
+woher ist der Baum : aus Holz
+ ist der Baum aus Holz denn er fest ist : Ja
+ wer ist aus Holz : der Baum denn er fest ist
+ was ist aus Holz : der Baum denn er fest ist
+ wem ist der Baum : aus Holz denn er fest ist
+woher ist der Baum : aus Holz denn er fest ist
+ wen ist der Baum : denn er fest ist
+ was ist der Baum : denn er fest ist
+ ist der Mensch kein Holz : Ja
+ wer ist kein Holz : der Mensch
+ was ist kein Holz : der Mensch
+ wen ist der Mensch nicht : ein Holz
+ was ist der Mensch nicht : ein Holz
+ ist der Mensch nicht aus Holz denn kein Lebewesen er ist : Ja
+ ist der Mensch aus Holz denn kein Lebewesen er ist : Nein
+ wer ist nicht aus Holz : der Mensch denn kein Lebewesen er ist
+ was ist nicht aus Holz : der Mensch denn kein Lebewesen er ist
+ wem ist der Mensch : aus Holz denn kein Lebewesen er ist
+woher ist der Mensch nicht : aus Holz denn kein Lebewesen er ist
+ wen ist der Mensch : denn kein Lebewesen er ist
+ was ist der Mensch : denn kein Lebewesen er ist

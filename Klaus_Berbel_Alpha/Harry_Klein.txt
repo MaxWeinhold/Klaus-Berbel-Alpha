@@ -1,0 +1,39 @@
+
+was ist mein Vorame : Harry
+ist mein Vorname Harry : Ja
+ist mein Vorname nicht Harry : Nein
+lautet mein Vorname Harry : Ja
+lautet mein Vorname nicht Harry : Nein
+was ist mein Nachname : Klein
+ist mein Nachname Klein : Ja
+ist mein Nachname nicht Klein : Nein
+lautet mein Nachname Klein : Ja
+lautet mein Nachname nicht Klein : Nein
+was ist mein Name : Harry Klein
+ist mein Name Harry Klein : Ja
+ist mein Name nicht Harry Klein : Nein
+lautet mein Name Harry Klein : Ja
+lautet mein Name nicht Harry Klein : Nein
+kommt Harry aus München : Ja
+kommt Harry nicht aus München : Nein
+kommt Harry Klein aus München : Ja
+kommt Harry Klein nicht aus München : Nein
+komme ich aus München : Ja
+komme ich nicht aus München : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Harry männlich : Ja
+ist Harry nicht männlich : Nein
+ist Harry Klein männlich : Ja
+ist Harry Klein nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Harry weiblich : Nein
+ist Harry nicht weiblich : Ja
+ist Harry Klein weiblich : Nein
+ist Harry Klein nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde

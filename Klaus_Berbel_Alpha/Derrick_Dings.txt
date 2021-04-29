@@ -1,0 +1,39 @@
+
+was ist mein Vorame : Derrick
+ist mein Vorname Derrick : Ja
+ist mein Vorname nicht Derrick : Nein
+lautet mein Vorname Derrick : Ja
+lautet mein Vorname nicht Derrick : Nein
+was ist mein Nachname : Dings
+ist mein Nachname Dings : Ja
+ist mein Nachname nicht Dings : Nein
+lautet mein Nachname Dings : Ja
+lautet mein Nachname nicht Dings : Nein
+was ist mein Name : Derrick Dings
+ist mein Name Derrick Dings : Ja
+ist mein Name nicht Derrick Dings : Nein
+lautet mein Name Derrick Dings : Ja
+lautet mein Name nicht Derrick Dings : Nein
+kommt Derrick aus München : Ja
+kommt Derrick nicht aus München : Nein
+kommt Derrick Dings aus München : Ja
+kommt Derrick Dings nicht aus München : Nein
+komme ich aus München : Ja
+komme ich nicht aus München : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Derrick männlich : Ja
+ist Derrick nicht männlich : Nein
+ist Derrick Dings männlich : Ja
+ist Derrick Dings nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Derrick weiblich : Nein
+ist Derrick nicht weiblich : Ja
+ist Derrick Dings weiblich : Nein
+ist Derrick Dings nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde

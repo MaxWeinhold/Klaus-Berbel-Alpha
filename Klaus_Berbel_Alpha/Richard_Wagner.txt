@@ -1,0 +1,54 @@
+
+was ist mein Vorame : Richard
+ist mein Vorname Richard : Ja
+ist mein Vorname nicht Richard : Nein
+lautet mein Vorname Richard : Ja
+lautet mein Vorname nicht Richard : Nein
+was ist mein Nachname : Wagner
+ist mein Nachname Wagner : Ja
+ist mein Nachname nicht Wagner : Nein
+lautet mein Nachname Wagner : Ja
+lautet mein Nachname nicht Wagner : Nein
+was ist mein Name : Richard Wagner
+ist mein Name Richard Wagner : Ja
+ist mein Name nicht Richard Wagner : Nein
+lautet mein Name Richard Wagner : Ja
+lautet mein Name nicht Richard Wagner : Nein
+kommt Richard aus Dresden : Ja
+kommt Richard nicht aus Dresden : Nein
+kommt Richard Wagner aus Dresden : Ja
+kommt Richard Wagner nicht aus Dresden : Nein
+komme ich aus Dresden : Ja
+komme ich nicht aus Dresden : Nein
+bin ich männlich : Ja
+bin ich nicht männlich : Nein
+ist Richard männlich : Ja
+ist Richard nicht männlich : Nein
+ist Richard Wagner männlich : Ja
+ist Richard Wagner nicht männlich : Nein
+bin ich weiblich : Nein
+bin ich nicht weiblich : Ja
+ist Richard weiblich : Nein
+ist Richard nicht weiblich : Ja
+ist Richard Wagner weiblich : Nein
+ist Richard Wagner nicht weiblich: Ja
+was bin ich : männlich
+was bin ich nicht : weiblich
+ ist die Erde blau : Ja
+ wer ist blau : die Erde
+ was ist blau : die Erde
+ ist die Erde ein Kugel : Ja
+ wer ist ein Kugel : die Erde
+ was ist ein Kugel : die Erde
+ wen ist die Erde nicht : ein Kugel
+ was ist die Erde nicht : ein Kugel
+ ist die Erde ein Planet : Ja
+ wer ist ein Planet : die Erde
+ was ist ein Planet : die Erde
+ wen ist die Erde nicht : ein Planet
+ was ist die Erde nicht : ein Planet
+ komponiere ich eine Oper : Ja
+ wer komponiert eine Oper : Richard Wagner
+ was komponiert eine Oper : Richard Wagner
+ wen komponiere ich nicht : ein Oper
+ was komponiere ich nicht : ein Oper
